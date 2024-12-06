@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7",
+        "slim/http": "^1.4",
+        "slim/csrf": "^1.5",
+        "vlucas/phpdotenv": "^5.6",
+        "illuminate/database": "^11.34",
+        "symfony/mailer": "^7.2",
+        "php-di/php-di": "^7.0",
+        "illuminate/filesystem": "^11.34"
+    }
+}
