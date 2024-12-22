@@ -8,6 +8,7 @@
         "illuminate/database": "^11.34",
         "symfony/mailer": "^7.2",
         "php-di/php-di": "^7.0",
-        "illuminate/filesystem": "^11.34"
+        "illuminate/filesystem": "^11.34",
+        "monolog/monolog": "^3.8"
     }
 }
